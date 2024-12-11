@@ -9,9 +9,9 @@ const socialIcons = [
   { src: "https://cdn.builder.io/api/v1/image/assets/TEMP/28c21d03a4ca54ce910ad6e0f6bbb5e96c68233e4c2dfd5ca8cca10baefeebc3?placeholderIfAbsent=true&apiKey=25238632ae2142cb926c4d10b0310905", alt: "Social media icon" }
 ];
 
-export default function Footer() {
+export default function Footer2() {
   return (
-    <div className=" items-center">
+    <div className="pl-[350px] items-center">
       <div className="flex flex-wrap gap-2 justify-between text-3xl  max-md:max-w-full max-md:text-4xl">
         <div className="flex gap-2 font-extrabold text-rose-700 whitespace-nowrap max-md:text-4xl">
           <img
